@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boys-trip-planner/static/css/main.f855e6bc.css",
+    "main.js": "/boys-trip-planner/static/js/main.69c8aeea.js",
+    "static/js/453.d67c6c26.chunk.js": "/boys-trip-planner/static/js/453.d67c6c26.chunk.js",
+    "index.html": "/boys-trip-planner/index.html",
+    "main.f855e6bc.css.map": "/boys-trip-planner/static/css/main.f855e6bc.css.map",
+    "main.69c8aeea.js.map": "/boys-trip-planner/static/js/main.69c8aeea.js.map",
+    "453.d67c6c26.chunk.js.map": "/boys-trip-planner/static/js/453.d67c6c26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.69c8aeea.js"
+  ]
+}
